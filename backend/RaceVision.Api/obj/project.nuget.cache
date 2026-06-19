@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "QDnteUwDSLBwBTAs/5Phl1u+8LsNOSWiP3FNdE+U9580+gkHrPeIpNplI+NUTvfbObCbM4ebzTlMTBPBFP5msA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Salvuccio\\Desktop\\RaceVision\\backend\\RaceVision.Api\\RaceVision.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Salvuccio\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
+    "C:\\Users\\Salvuccio\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Salvuccio\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Salvuccio\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Salvuccio\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Salvuccio\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Salvuccio\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
