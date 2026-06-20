@@ -1,4 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using RaceVision.Api.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<RaceVisionDbContext>(options =>
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 
 // Add services to the container.
 
