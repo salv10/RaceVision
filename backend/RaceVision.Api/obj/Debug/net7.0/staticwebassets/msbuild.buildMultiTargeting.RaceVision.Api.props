@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\RaceVision.Api.props" />
-</Project>
