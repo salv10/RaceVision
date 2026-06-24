@@ -100,3 +100,4 @@ Whenever possible:
 - Prefer explicit code over implicit behavior.
 - Design for future growth without overengineering.
 - Every architectural decision should have a clear reason.
+
