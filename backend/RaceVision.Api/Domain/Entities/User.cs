@@ -1,4 +1,4 @@
-namespace RaceVision.Api.Models;
+namespace RaceVision.Api.Domain.Entities;
 
 public class User
 {

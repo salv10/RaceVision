@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using RaceVision.Api.Models;
+using RaceVision.Api.Domain.Entities;
 
 namespace RaceVision.Api.Data;
 
